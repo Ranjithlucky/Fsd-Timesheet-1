@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(128, 128, 128, 0.342);
+  }
+  input[type="file"]{
+    /* color: transparent; */
+    width: 600px;
+    font-size: 100%;
+    box-sizing:ghhgvghc
+
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    background-color:wheat;
+    color: black;
+    font-size: 170%;
+    border-radius: 70px;
+    border-color: azure;
+    
+  }
+  input {
+      margin: 15px;
+      
+  }
